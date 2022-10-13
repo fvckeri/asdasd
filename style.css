@@ -1,0 +1,164 @@
+	body {
+	background-color:#d4afa0
+	}
+	html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+	
+	.container {
+		margin-left:20px;
+	}
+	
+	.row {
+		width:100%;
+		display:flex;
+		flex-wrap:wrap;
+	}
+	
+	@font-face {
+	font-family:"Raleway";
+	src: url("https://drive.google.com/file/d/1uJTzLXLWJVTHu6ndAvvXszL13XL6jrgB/view?usp=sharing")
+	}
+	
+	@font-face {
+	font-family:"Lato";
+	src: url("https://drive.google.com/file/d/1KCyYiW253qXRAcg_xljWoJMF41qho886/view?usp=sharing");
+	}
+	.box-1
+		{
+		background:#fff;
+		position:relative;
+		max-width:400px;
+		min-height:100%;
+		flex:1;
+		margin:;
+		}
+	img{
+	border-radius: 50%;
+	  display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20;
+		border: 5px solid #a4f5ca
+	}
+	#contact2{
+		color: #9b725e; 
+		font-size:20px; 
+		font-family: 'Raleway', Arial, sans-serif;
+		border-bottom: 3px solid #d4afa0;
+		padding-bottom: 5px;
+		border-spacing: 5;
+		margin-left:25;
+		margin-right:25;
+	}
+	#li1{
+	margin: 0;
+	padding: 0px 0 10px 25px;
+	list-style: none;
+	background-image: url("https://i.imgur.com/Urqp5uy.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 20px;
+	font-family: 'lato', Arial, sans-serif;
+	
+	}
+	#li2{
+	margin: 0;
+	padding: 0px 0 10px 25px;
+	list-style: none;
+	background-image: url("https://i.imgur.com/YfPsppU.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 20px;
+	font-family: 'lato', Arial, sans-serif;
+	}
+	
+	#li3{
+	margin: 0;
+	padding: 0px 0 10px 25px;
+	list-style: none;
+	background-image: url("https://i.imgur.com/R4NRqMy.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 20px;
+	font-family: 'lato', Arial, sans-serif;
+	}	
+	
+	#li4{
+	margin: 0;
+	padding: 0px 0 10px 25px;
+	list-style: none;
+	background-image: url("https://i.imgur.com/vJzU8Vb.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 20px;
+	font-family: 'lato', Arial, sans-serif;
+	}
+	#lilist{
+		font-family: 'lato', Arial, sans-serif;
+		text-align="center";
+	}
+	#lilist1{
+		font-family: 'lato', Arial, sans-serif;
+		text-align="center";
+		margin: 0px,20px;
+	}
+	
+	
+	.box-2{
+		position:relative;
+		width:70%
+		
+	}
+	#header1{
+		color: #5fr12e; 
+		font-size:50px; 
+		font-family: 'Raleway', Arial, sans-serif;
+		letter-spacing:10px;
+		margin-left:100;
+		margin-right:25;
+		text-align:center;
+	}
+	#header2{
+		color: #5fr12e; 
+		font-size:25px; 
+		font-family: 'Raleway', Arial, sans-serif;
+		letter-spacing:10px;
+		margin-left:50px;
+		margin-right:25px;
+		text-align:center;
+	}
+	#category{
+		color: white;
+		font-family: 'Raleway', Arial, sans-serif;
+		font-size:20px;
+		background-color:#9b725e;
+		margin-left:50px;
+		letter-spacing:10px;
+		height:22px;
+		width:50%;
+		background-repeat: no-repeat;
+		background-position: left center;
+	}
+	#bodyasd{
+		font-family: 'lato', Arial, sans-serif;
+		text-align="center";
+		margin-left:50px;
+		height:22px;
+		width:50%;
+		background-repeat: no-repeat;
+		background-position: left center;
+	}
+	#bodyasds{
+		font-family: 'lato', Arial, sans-serif;
+		font-size: 10px
+		text-align="center";
+		margin-left:50px;
+		width:50%;
+		background-repeat: no-repeat;
+		background-position: left center;
+	}
+									
